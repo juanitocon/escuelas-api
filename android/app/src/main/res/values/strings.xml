@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">escuelas-api</string>
+    <string name="title_activity_main">escuelas-api</string>
+    <string name="package_name">com.apiescuelas.app</string>
+    <string name="custom_url_scheme">com.apiescuelas.app</string>
+</resources>
